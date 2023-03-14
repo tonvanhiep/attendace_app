@@ -1,0 +1,343 @@
+{
+    "message": "success",
+    "data": {
+        "list": [
+            {
+                "employee_id": 1,
+                "timekeeper_id": 9,
+                "timekeeping_at": "2023-03-05 18:55:17",
+                "face_image": "https://via.placeholder.com/640x480.png/00aa55?text=deserunt",
+                "status": 1,
+                "date": "2023-03-05",
+                "check_in": "18:55:17",
+                "check_out": "18:55:17"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 7,
+                "timekeeping_at": "2023-02-26 08:05:04",
+                "face_image": "https://via.placeholder.com/640x480.png/007711?text=nostrum",
+                "status": 1,
+                "date": "2023-02-26",
+                "check_in": "08:05:04",
+                "check_out": "08:05:04"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2023-02-23 13:09:27",
+                "face_image": "https://via.placeholder.com/640x480.png/0011cc?text=voluptatum",
+                "status": 1,
+                "date": "2023-02-23",
+                "check_in": "13:09:27",
+                "check_out": "13:09:27"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 9,
+                "timekeeping_at": "2023-02-21 17:24:10",
+                "face_image": "https://via.placeholder.com/640x480.png/00ffbb?text=culpa",
+                "status": 1,
+                "date": "2023-02-21",
+                "check_in": "15:33:09",
+                "check_out": "17:24:10"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2023-02-20 10:41:39",
+                "face_image": "https://via.placeholder.com/640x480.png/002277?text=voluptatum",
+                "status": 1,
+                "date": "2023-02-20",
+                "check_in": "10:41:39",
+                "check_out": "10:41:39"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 9,
+                "timekeeping_at": "2023-02-16 12:46:58",
+                "face_image": "https://via.placeholder.com/640x480.png/0099bb?text=consequuntur",
+                "status": 1,
+                "date": "2023-02-16",
+                "check_in": "12:46:58",
+                "check_out": "12:46:58"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 9,
+                "timekeeping_at": "2023-02-13 12:12:39",
+                "face_image": "https://via.placeholder.com/640x480.png/00bb55?text=suscipit",
+                "status": 1,
+                "date": "2023-02-13",
+                "check_in": "12:12:39",
+                "check_out": "12:12:39"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 6,
+                "timekeeping_at": "2023-02-07 12:33:40",
+                "face_image": "https://via.placeholder.com/640x480.png/00ffdd?text=possimus",
+                "status": 1,
+                "date": "2023-02-07",
+                "check_in": "12:33:40",
+                "check_out": "12:33:40"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 5,
+                "timekeeping_at": "2023-02-02 09:19:59",
+                "face_image": "https://via.placeholder.com/640x480.png/00dddd?text=quis",
+                "status": 1,
+                "date": "2023-02-02",
+                "check_in": "09:19:59",
+                "check_out": "09:19:59"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 2,
+                "timekeeping_at": "2023-01-26 12:28:46",
+                "face_image": "https://via.placeholder.com/640x480.png/0099cc?text=rerum",
+                "status": 1,
+                "date": "2023-01-26",
+                "check_in": "12:28:46",
+                "check_out": "12:28:46"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2023-01-23 01:28:33",
+                "face_image": "https://via.placeholder.com/640x480.png/0077dd?text=eos",
+                "status": 1,
+                "date": "2023-01-23",
+                "check_in": "01:28:33",
+                "check_out": "01:28:33"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2023-01-22 08:48:44",
+                "face_image": "https://via.placeholder.com/640x480.png/000000?text=quia",
+                "status": 1,
+                "date": "2023-01-22",
+                "check_in": "08:48:44",
+                "check_out": "19:36:38"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 10,
+                "timekeeping_at": "2023-01-18 23:59:10",
+                "face_image": "https://via.placeholder.com/640x480.png/00dd00?text=eos",
+                "status": 1,
+                "date": "2023-01-18",
+                "check_in": "23:59:10",
+                "check_out": "23:59:10"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2023-01-17 14:53:38",
+                "face_image": "https://via.placeholder.com/640x480.png/002288?text=repellat",
+                "status": 1,
+                "date": "2023-01-17",
+                "check_in": "14:53:38",
+                "check_out": "14:53:38"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 3,
+                "timekeeping_at": "2023-01-15 21:22:49",
+                "face_image": "https://via.placeholder.com/640x480.png/0099ee?text=aut",
+                "status": 1,
+                "date": "2023-01-15",
+                "check_in": "21:22:49",
+                "check_out": "21:22:49"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 7,
+                "timekeeping_at": "2023-01-13 11:26:55",
+                "face_image": "https://via.placeholder.com/640x480.png/00eeaa?text=quia",
+                "status": 1,
+                "date": "2023-01-13",
+                "check_in": "11:26:55",
+                "check_out": "11:26:55"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 9,
+                "timekeeping_at": "2023-01-12 02:37:37",
+                "face_image": "https://via.placeholder.com/640x480.png/001100?text=et",
+                "status": 1,
+                "date": "2023-01-12",
+                "check_in": "02:37:37",
+                "check_out": "02:37:37"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 1,
+                "timekeeping_at": "2023-01-10 08:13:58",
+                "face_image": "https://via.placeholder.com/640x480.png/00dd44?text=delectus",
+                "status": 1,
+                "date": "2023-01-10",
+                "check_in": "08:13:58",
+                "check_out": "08:13:58"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 10,
+                "timekeeping_at": "2023-01-08 09:52:59",
+                "face_image": "https://via.placeholder.com/640x480.png/007700?text=perferendis",
+                "status": 1,
+                "date": "2023-01-08",
+                "check_in": "09:52:59",
+                "check_out": "09:52:59"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 9,
+                "timekeeping_at": "2023-01-07 13:39:46",
+                "face_image": "https://via.placeholder.com/640x480.png/00bbaa?text=vitae",
+                "status": 1,
+                "date": "2023-01-07",
+                "check_in": "13:39:46",
+                "check_out": "18:14:06"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 1,
+                "timekeeping_at": "2023-01-06 10:10:40",
+                "face_image": "https://via.placeholder.com/640x480.png/005522?text=sed",
+                "status": 1,
+                "date": "2023-01-06",
+                "check_in": "10:10:40",
+                "check_out": "10:10:40"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 6,
+                "timekeeping_at": "2023-01-02 05:17:20",
+                "face_image": "https://via.placeholder.com/640x480.png/00bb77?text=rerum",
+                "status": 1,
+                "date": "2023-01-02",
+                "check_in": "05:17:20",
+                "check_out": "05:17:20"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 3,
+                "timekeeping_at": "2022-12-27 20:19:36",
+                "face_image": "https://via.placeholder.com/640x480.png/00dddd?text=aut",
+                "status": 1,
+                "date": "2022-12-27",
+                "check_in": "20:19:36",
+                "check_out": "20:19:36"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 8,
+                "timekeeping_at": "2022-12-23 19:31:38",
+                "face_image": "https://via.placeholder.com/640x480.png/0088aa?text=delectus",
+                "status": 1,
+                "date": "2022-12-23",
+                "check_in": "05:25:07",
+                "check_out": "19:31:38"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 3,
+                "timekeeping_at": "2022-12-20 21:19:16",
+                "face_image": "https://via.placeholder.com/640x480.png/008888?text=necessitatibus",
+                "status": 1,
+                "date": "2022-12-20",
+                "check_in": "17:29:39",
+                "check_out": "21:19:16"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 1,
+                "timekeeping_at": "2022-12-18 03:03:04",
+                "face_image": "https://via.placeholder.com/640x480.png/00aa66?text=cum",
+                "status": 1,
+                "date": "2022-12-18",
+                "check_in": "03:03:04",
+                "check_out": "03:03:04"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2022-12-17 17:02:34",
+                "face_image": "https://via.placeholder.com/640x480.png/00aaff?text=omnis",
+                "status": 1,
+                "date": "2022-12-17",
+                "check_in": "09:34:43",
+                "check_out": "17:02:34"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 2,
+                "timekeeping_at": "2022-12-15 12:26:35",
+                "face_image": "https://via.placeholder.com/640x480.png/00eeaa?text=harum",
+                "status": 1,
+                "date": "2022-12-15",
+                "check_in": "12:26:35",
+                "check_out": "12:26:35"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 8,
+                "timekeeping_at": "2022-12-13 07:53:22",
+                "face_image": "https://via.placeholder.com/640x480.png/0055dd?text=quia",
+                "status": 1,
+                "date": "2022-12-13",
+                "check_in": "07:53:22",
+                "check_out": "07:53:22"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 6,
+                "timekeeping_at": "2022-12-12 20:39:48",
+                "face_image": "https://via.placeholder.com/640x480.png/00dd33?text=at",
+                "status": 1,
+                "date": "2022-12-12",
+                "check_in": "14:23:47",
+                "check_out": "20:39:48"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 1,
+                "timekeeping_at": "2022-12-11 15:01:12",
+                "face_image": "https://via.placeholder.com/640x480.png/007733?text=doloremque",
+                "status": 1,
+                "date": "2022-12-11",
+                "check_in": "15:01:12",
+                "check_out": "15:01:12"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 4,
+                "timekeeping_at": "2022-12-09 13:26:57",
+                "face_image": "https://via.placeholder.com/640x480.png/0022bb?text=fuga",
+                "status": 1,
+                "date": "2022-12-09",
+                "check_in": "13:26:57",
+                "check_out": "13:26:57"
+            },
+            {
+                "employee_id": 1,
+                "timekeeper_id": 10,
+                "timekeeping_at": "2022-12-07 23:38:35",
+                "face_image": "https://via.placeholder.com/640x480.png/0022ff?text=ipsa",
+                "status": 1,
+                "date": "2022-12-07",
+                "check_in": "23:38:35",
+                "check_out": "23:38:35"
+            }
+        ],
+        "start_time": "08:00:00",
+        "end_time": "17:00:00",
+        "working_day": "2|3|4|5|6",
+        "join_day": "2023-02-27",
+        "left_day": null
+    },
+    "code": 200
+}
